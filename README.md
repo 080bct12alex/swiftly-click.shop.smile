@@ -9,7 +9,7 @@
 
 
 
-#  🚀  E-COMMERCE WEBSITE INCLUDING </h1>
+#  🚀  E-COMMERCE WEBSITE INCLUDING 
 
 -   🗄️ MongoDB & Redis Integration
 -   💳 Stripe Payment Setup
