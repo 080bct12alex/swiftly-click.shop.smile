@@ -4,7 +4,7 @@
 
 
 ## Technology used :
-🚀 MERN  , 🗄️ MongoDB & Redis , 💳 Stripe , 🔐 Robust , 🔐 Robust
+🚀 MERN  , 🗄️ MongoDB & Redis , 💳 Stripe , 🔐 Robust , JWT
 
 
 
