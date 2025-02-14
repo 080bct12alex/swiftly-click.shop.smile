@@ -1,6 +1,6 @@
-## <h1 align="center"> Swiftly- Click. Shop. Smile 🛒</h1>
+ <h1 align="center"> Swiftly- Click. Shop. Smile 🛒</h1>
 
-### Weblink: [Live Website](https://swiftly-click-shop-smile.onrender.com)
+# Weblink: [Live Website](https://swiftly-click-shop-smile.onrender.com)
 
 
 ## Technology used :
@@ -9,7 +9,7 @@
 
 
 
-#  🚀  E-COMMERCE WEBSITE INCLUDING 
+####  🚀  E-COMMERCE WEBSITE INCLUDING 
 
 -   🗄️ MongoDB & Redis Integration
 -   💳 Stripe Payment Setup
