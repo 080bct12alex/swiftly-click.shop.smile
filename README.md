@@ -1,10 +1,10 @@
-<h1 align="center"> Swiftly- Click. Shop. Smile 🛒</h1>
+## <h1 align="center"> Swiftly- Click. Shop. Smile 🛒</h1>
 
 ### Weblink: [Live Website](https://swiftly-click-shop-smile.onrender.com)
 
 
-🚀 Technology used :
-🗄️ MongoDB & Redis , 💳 Stripe , 🔐 Robust , 🔐 Robust
+## Technology used :
+🚀 MERN  , 🗄️ MongoDB & Redis , 💳 Stripe , 🔐 Robust , 🔐 Robust
 
 
 
