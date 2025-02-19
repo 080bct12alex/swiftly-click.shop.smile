@@ -1,6 +1,6 @@
  <h1 align="center"> Swiftly- Click. Shop. Smile 🛒</h1>
 
-# Weblink: [Live Website](https://swiftly-click-shop-smile.onrender.com)
+# Weblink: [Live Website](https://swiftly-shop.onrender.com)
 
 
 ## Technology used :
